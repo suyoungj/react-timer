@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.6a97c55b.css",
-    "main.js": "./static/js/main.a9cf8527.js",
+    "main.js": "./static/js/main.a32636d2.js",
     "static/media/digital-alarm.mp3": "./static/media/digital-alarm.7d91df4c22b73dcff5ed.mp3",
     "static/media/clock-high.mp3": "./static/media/clock-high.29861cb66ab90e003b97.mp3",
     "static/media/clock-low.mp3": "./static/media/clock-low.6c19b7b9a533c76b395a.mp3",
@@ -9,10 +9,10 @@
     "static/media/clock.png": "./static/media/clock.180247a4b2d0e2e8e790.png",
     "index.html": "./index.html",
     "main.6a97c55b.css.map": "./static/css/main.6a97c55b.css.map",
-    "main.a9cf8527.js.map": "./static/js/main.a9cf8527.js.map"
+    "main.a32636d2.js.map": "./static/js/main.a32636d2.js.map"
   },
   "entrypoints": [
     "static/css/main.6a97c55b.css",
-    "static/js/main.a9cf8527.js"
+    "static/js/main.a32636d2.js"
   ]
 }
