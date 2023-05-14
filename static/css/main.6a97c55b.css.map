@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.6a97c55b.css","mappings":"AAAA,KACE,YAAa,CACb,qBAAsB,CACtB,YACF","sources":["App.css"],"sourcesContent":[".App {\n  display: flex;\n  flex-direction: column;\n  height: 100vh;\n}\n"],"names":[],"sourceRoot":""}
